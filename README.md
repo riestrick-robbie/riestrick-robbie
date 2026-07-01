@@ -6,7 +6,7 @@
 
 :eyeglasses: **Camina hacia el futuro**
 
-:oncoming_ball: **Fan de los deportes**
+:oncoming_automobile: **Fan de los deportes**
 
 :family: **Amo mi Familia**
 
