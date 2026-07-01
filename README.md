@@ -1,9 +1,13 @@
 ## Hi there 👋
 
 :computer: **Ingeniero civil, esp. en gerencia**
+
 :pencil: **prendiz de JS**
+
 :eyeglasses: **Camina hacia el futuro**
+
 :oncoming_soccer: **Fan de los deportes**
+
 :family: **Amo mi Familia**
 
 ### Vías de contacto
