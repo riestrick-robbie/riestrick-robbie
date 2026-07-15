@@ -15,10 +15,10 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/riestrick-robbie/riestrick-robbie)
 
 ### :zap:  Actividad reciente
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:star-->
 
 
 
 
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
