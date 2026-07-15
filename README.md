@@ -16,5 +16,5 @@
 
 ### :zap:  Actividad reciente
 <!--START_SECTION:activity-->
-...
+1. 🔒 Closed issue [#4](https://github.com/riestrick-robbie/miPrimerRepo/issues/4) in [riestrick-robbie/miPrimerRepo](https://github.com/riestrick-robbie/miPrimerRepo)
 <!--END_SECTION:activity-->
