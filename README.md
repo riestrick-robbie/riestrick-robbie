@@ -15,10 +15,6 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/riestrick-robbie/riestrick-robbie)
 
 ### :zap:  Actividad reciente
-<!--RECENT_ACTIVITY:star-->
-
-
-
-
-
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+...
+<!--END_SECTION:activity-->
