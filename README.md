@@ -14,4 +14,4 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/riestrick-robbie/riestrick-robbie)
 
-### Actividad reciente
+### :zap:  Actividad reciente
